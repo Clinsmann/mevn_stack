@@ -1,0 +1,31 @@
+.card-img-top {
+    max-height: 210px;
+}
+
+.category-list li {
+    border-top: 1px solid #f4f5f7;
+}
+
+
+/*
+html {
+    font-size: 1rem;
+}
+
+@include media-breakpoint-up(sm) {
+    html {
+        font-size: 1.2rem;
+    }
+}
+
+@include media-breakpoint-up(md) {
+    html {
+        font-size: 1.4rem;
+    }
+}
+
+@include media-breakpoint-up(lg) {
+    html {
+        font-size: 1.6rem;
+    }
+}*/
